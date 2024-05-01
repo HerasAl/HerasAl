@@ -4,9 +4,9 @@
 <p align="left">
   <a href="https://github.com/HerasAl"><img alt="followers" title="Sígueme en Github" src="https://img.shields.io/github/followers/HerasAl?color=236ad3&style=for-the-badge&logo=github&label=Seguidores"/></a>
   <a href="https://twitter.com/XlexHeras" target="_blank"><img alt="followers" title="Sígueme en Twitter" src="https://img.shields.io/badge/twitter-XlexHeras?color=1D9BF0&style=for-the-badge"/></a>
-  <a href="https://www.facebook.com/HerasAlexis"><img alt="followers" title="Estoy en Facebook" src="https://img.shields.io/badge/facebook-HerasAl?color=236ad3&style=for-the-badge"/></a>
-  <a href="https://www.youtube.com/@heras_dev"><img alt="followers" title="Estoy en YouTube" src="https://img.shields.io/badge/youtube-HerasAl?color=FF0000&style=for-the-badge"/></a>
-  <a href="https://www.twitch.tv/herxs_"><img alt="followers" title="Estoy en Twitch" src="https://img.shields.io/badge/twitch-HerasAl?color=9146FF&style=for-the-badge"/></a>
+  <a href="https://www.facebook.com/HerasAlexis" target="_blank"><img alt="followers" title="Estoy en Facebook" src="https://img.shields.io/badge/facebook-HerasAl?color=236ad3&style=for-the-badge"/></a>
+  <a href="https://www.youtube.com/@heras_dev" target="_blank"><img alt="followers" title="Estoy en YouTube" src="https://img.shields.io/badge/youtube-HerasAl?color=FF0000&style=for-the-badge"/></a>
+  <a href="https://www.twitch.tv/herxs_" target="_blank"><img alt="followers" title="Estoy en Twitch" src="https://img.shields.io/badge/twitch-HerasAl?color=9146FF&style=for-the-badge"/></a>
 
 </p>
 <div align="left">
